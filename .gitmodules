@@ -1,0 +1,3 @@
+[submodule "libdiscord"]
+	path = libdiscord
+	url = https://github.com/dxing97/libdiscord
