@@ -14,3 +14,5 @@ cd ../../
 ./build.sh
 ./satanick
 ```
+
+Set bot token in `BOT_TOKEN` environment variable.
